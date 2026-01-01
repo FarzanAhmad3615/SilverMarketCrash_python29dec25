@@ -1,5 +1,5 @@
 # VolatilityForecasting_SilverMarketCrash_python
-# Project README: Financial Market Analysis & Forecasting
+
 
 ## Overview
 

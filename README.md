@@ -58,3 +58,4 @@ A comparative analysis framework evaluating four distinct modeling paradigms on 
 `pip install pandas numpy matplotlib yfinance scikit-learn tensorflow statsmodels arch`
 2. **Dataset:** The scripts automatically pull live/historical data via the Yahoo Finance API or use provided `stock_data.csv`.
 3. **Run:** Execute the Python scripts to generate the performance metrics and synchronized visualizations.
+<img width="923" height="634" alt="smc" src="https://github.com/user-attachments/assets/b185c84b-1a25-41ad-9a97-388bbbab778d" />
